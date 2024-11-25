@@ -12,7 +12,7 @@ Bu projede, int, string ve double gibi veri türlerinde değişkenler tanımlama
 Bu projede, birden fazla değeri bir arada tutan dizilerle çalıştım. Döngüler yardımıyla dizi elemanlarını işleme ve görüntüleme yöntemlerini keşfettim. 
 
 ## Proje 4: Karar Yapıları (If-Else)
-Bu projede, if, else if ve else gibi yapıların nasıl kullanıldığını öğrendim. Farklı durumlarda programın nasıl tepki verdiğini test ederek karar mekanizmalarını inceledim. ⚖
+Bu projede, if, else if ve else gibi yapıların nasıl kullanıldığını öğrendim. Farklı durumlarda programın nasıl tepki verdiğini test ederek karar mekanizmalarını inceledim. 
 
 ## Proje 5: Döngüler (Loops)
 Bu projede for, while ve foreach döngülerini öğrenerek tekrarlayan işlemleri otomatikleştirdim. Döngüleri kullanarak veri kümelerini daha verimli bir şekilde işleme becerisi kazandım. 
