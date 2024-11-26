@@ -26,9 +26,11 @@ Bu projede, foreach döngüsünü daha detaylı bir şekilde inceleyerek bir sı
 ## 📎Proje 8: Geriye Değer Döndüren Fonksiyonlar
 Bu projede, geriye değer döndüren metotlarla çalışmayı denedim. Kullanıcının girdiği verileri işleyen ve sonuç döndüren fonksiyonlar yazarak daha kompleks işlemleri nasıl yöneteceğimi öğrendim. 
 
-## 📎Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
-Bu projede, veritabanı bağlantısı kurarak veri çekme işlemleri gerçekleştirdim. Kullanıcının seçimine göre tablo bilgilerini ekrana yansıtan bir uygulama tasarladım. SqlConnection ve SqlCommand sınıflarını kullanarak SQL sorguları çalıştırmayı deneyimledim. Bu projeyle birlikte, veritabanı işlemleri ve veri yönetimi üzerine önemli bilgiler edindim. 
+## 📎Proje 10: CRUD İşlemleri ile Veritabanı Eylemleri
+Bu projede, CRUD -> Create-Read-Update-Delete metotlarını kullanarak veri çekme, ekleme, güncelleme ve silme işlemlerini gerçekleştirdim. SqlConnection ve SqlCommand sınıflarını kullanarak SQL sorguları yazıp çalıştırmayı deneyimledim. 
 
+## 📎Proje 10: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
+Bu projede, veritabanı bağlantısı kurarak veri çekme işlemleri gerçekleştirdim. Kullanıcının seçimine göre tablo bilgilerini ekrana yansıtan bir uygulama tasarladım. SqlConnection ve SqlCommand sınıflarını kullanarak SQL sorguları çalıştırmayı deneyimledim. Bu projeyle birlikte, veritabanı işlemleri ve veri yönetimi üzerine önemli bilgiler edindim. 
 ---
 ### ***[Murat Yucedağ Website](https://muratyucedag.com/) Murat Yücedağ hocama ve ekibine teşekkürler.***
 ---
