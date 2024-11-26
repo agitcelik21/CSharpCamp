@@ -31,6 +31,8 @@ Bu projede, CRUD -> Create-Read-Update-Delete metotlarını kullanarak veri çek
 
 ## 📎Proje 10: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 Bu projede, veritabanı bağlantısı kurarak veri çekme işlemleri gerçekleştirdim. Kullanıcının seçimine göre tablo bilgilerini ekrana yansıtan bir uygulama tasarladım. SqlConnection ve SqlCommand sınıflarını kullanarak SQL sorguları çalıştırmayı deneyimledim. Bu projeyle birlikte, veritabanı işlemleri ve veri yönetimi üzerine önemli bilgiler edindim. 
+
+
 ---
 ### ***[Murat Yucedağ Website](https://muratyucedag.com/) Murat Yücedağ hocama ve ekibine teşekkürler.***
 ---
