@@ -71,6 +71,7 @@ Proje 1 ve 2'de oluşturulan veritabanlarına ait istatistikleri gösteren bir f
 ## Eğitim ile Alakalı faydalı makaleler:
 
 ***[Entity Framework Nedir?](https://medium.com/t%C3%BCrkiye/entity-framework-nedir-bff3943bec72)***
+
 ***[Entity Framework Derinlemesine İnceleme](https://medium.com/intertechit/entity-framework-i%CC%87le-scuba-dal%C4%B1%C5%9F-1-913f8be907e2)***
 
 ---
