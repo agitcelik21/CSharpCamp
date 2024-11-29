@@ -63,7 +63,7 @@ Location Table için bir form oluşturuldu.
 Bu form ile listeleme, ekleme, silme, güncelleme ve ID'ye göre veri getirme özellikleri eklendi.
 
 ### Alıştırma Formu 3:
-![image]([[https://github.com/agitcelik21/CSharpCamp/blob/master/proje-gorselleri/Ders17-form.png](https://github.com/agitcelik21/CSharpCamp/blob/master/proje-gorselleri/Ders17-form.png))
+![image](https://github.com/agitcelik21/CSharpCamp/blob/master/proje-gorselleri/Ders17-form.png)
 
 Proje 1 ve 2'de oluşturulan veritabanlarına ait istatistikleri gösteren bir form hazırlandı.
 
